@@ -6,4 +6,6 @@ ORB es una algoritme que neix com alternativa lliure als algoritmes SIFT i SURF.
 
 ORB incorpora un mecanisme de compensació de la orientació fent que sigui immune a les rotacions i augmenta la rapidesa en la detecció aprenent amb «machine learning» dels parells de mostreig òptims.
 
+En aquesta aplicació s’implementat la detecció de punts d’interès amb ORB original però aplicant una mascara per focalitzar la zona de la imatge on es volen detecta aquest punts
+
 Referencies:
