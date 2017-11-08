@@ -11,3 +11,9 @@ Per millorar la sensibilitat a la rotació utilitza la intensitat del centroid d
 En aquesta aplicació s’implementat la detecció de punts d’interès amb ORB original però aplicant una mascara per focalitzar la zona de la imatge on es volen detecta aquest punts.
 
 Referencies:
+
+https://en.wikipedia.org/wiki/Features_from_accelerated_segment_test
+
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_orb/py_orb.html
+
+https://gilscvblog.com/2013/10/04/a-tutorial-on-binary-descriptors-part-3-the-orb-descriptor/
